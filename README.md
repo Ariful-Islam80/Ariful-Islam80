@@ -1,36 +1,53 @@
 ![](https://github.com/Ariful-Islam80/New-project/blob/main/image/Black%20White%20Modern%20Simple%20New%20Arrival%20Sport%20Shoes%20Banner.gif?raw=true)
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ariful-Islam80&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ariful-Islam80&label=Profile%20views&color=0e75b6&style=flat)
+
+Passionate about crafting captivating digital experiences, I specialize in using Tailwind CSS, React, Next.js, and Redux. From designing visually appealing interfaces to ensuring seamless user interactions, I bring creativity and efficiency to the frontend. With a solid foundation in backend technologies like Node.js, Express.js, and MongoDB, I seamlessly integrate frontend and backend functionalities. My collaborative workflows on GitHub and expertise in Firebase for real-time capabilities add a dynamic layer to my projects. Committed to continuous innovation, I contribute to cutting-edge web development initiatives.
+
+## Skills
+
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Currently...
+
+- 🌱 I’m currently learning Deep FrontEnd concepts
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Ask me about Web Development
+
+## Find Me
+
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/Ariful-Islam80"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+  <a href="https://www.linkedin.com/in/Ariful-Islam80/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 </div>
 
-Passionate about crafting captivating digital experiences, I specialize in using Tailwind CSS, React, Next.js, and Redux. From designing visually appealing interfaces to ensuring seamless user interactions, I bring creativity and efficiency to the frontend.
-With a solid foundation in backend technologies like Node.js, Express.js, and MongoDB, I seamlessly integrate frontend and backend functionalities. My collaborative workflows on GitHub and expertise in Firebase for real-time capabilities add a dynamic layer to my projects. Committed to continuous innovation, I contribute to cutting-edge web development initiatives.
+## GitHub Stats
 
-Skills: TAILWIND/  JS / REACT/  REDUX/ NEXT.JS/ NODE.JS/ EXPRESS.JS/ MONGODB/ GITHUB/ FIREBASE
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-Islam80&show_icons=true)
 
-- 🌱 I’m currently learning Deeplyl FrontEnd 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developer 
-
-<div align="center"> 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ariful-Islam80)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed/?trk=404_page/)  
-</div>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ariful-Islam80)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-Islam80)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-Islam80&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Ariful-Islam80/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://github.com/Ariful-Islam80/Ariful-Islam80/blob/main/github-metrics.svg)
-
+## GitHub Streak
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ariful-Islam80)
+
+## Projects
+
+- [Project 1](link-to-project-1): Description of project 1.
+- [Project 2](link-to-project-2): Description of project 2.
+- ...
+
+
+
+
 
