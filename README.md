@@ -30,7 +30,7 @@ Passionate about crafting captivating digital experiences, I specialize in using
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <a href="https://github.com/Ariful-Islam80"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-  <a href="www.linkedin.com/in/mohammad-ariful-islam-a415402a6"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+  <a href="https://www.linkedin.com/in/mohammad-ariful-islam-a415402a6"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 </div>
 
 ## GitHub Stats
