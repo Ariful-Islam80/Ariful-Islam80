@@ -1,4 +1,4 @@
-![](https://github.com/Ariful-Islam80/E-Commerce-Website/blob/main/images/Black%20White%20Modern%20Simple%20New%20Arrival%20Sport%20Shoes%20Banner.gif?raw=true)
+![](https://github.com/Ariful-Islam80/New-project/blob/main/image/Black%20White%20Modern%20Simple%20New%20Arrival%20Sport%20Shoes%20Banner.gif?raw=true)
 
 Passionate about crafting captivating digital experiences, I specialize in using Tailwind CSS, React, Next.js, and Redux. From designing visually appealing interfaces to ensuring seamless user interactions, I bring creativity and efficiency to the frontend.
 With a solid foundation in backend technologies like Node.js, Express.js, and MongoDB, I seamlessly integrate frontend and backend functionalities. My collaborative workflows on GitHub and expertise in Firebase for real-time capabilities add a dynamic layer to my projects. Committed to continuous innovation, I contribute to cutting-edge web development initiatives.
