@@ -25,7 +25,8 @@ Skills: TAILWIND/  JS / REACT/  REDUX/ NEXT.JS/ NODE.JS/ EXPRESS.JS/ MONGODB/ GI
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Ariful-Islam80/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ariful-Islam80)  
+![GitHub metrics](https://github.com/Ariful-Islam80/Ariful-Islam80/blob/main/github-metrics.svg)
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ariful-Islam80)
 
