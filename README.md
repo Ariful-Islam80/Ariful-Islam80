@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ariful-Islam80&label=Profile%20views&color=0e75b6&style=flat)
 
-Passionate about crafting captivating digital experiences, I specialize in using Tailwind CSS, React, Next.js, and Redux. From designing visually appealing interfaces to ensuring seamless user interactions, I bring creativity and efficiency to the frontend. With a solid foundation in backend technologies like Node.js, Express.js, and MongoDB, I seamlessly integrate frontend and backend functionalities. My collaborative workflows on GitHub and expertise in Firebase for real-time capabilities add a dynamic layer to my projects. Committed to continuous innovation, I contribute to cutting-edge web development initiatives.
+#### Passionate about crafting captivating digital experiences, I specialize in using Tailwind CSS, React, Next.js, and Redux. From designing visually appealing interfaces to ensuring seamless user interactions, I bring creativity and efficiency to the frontend. With a solid foundation in backend technologies like Node.js, Express.js, and MongoDB, I seamlessly integrate frontend and backend functionalities. My collaborative workflows on GitHub and expertise in Firebase for real-time capabilities add a dynamic layer to my projects. Committed to continuous innovation, I contribute to cutting-edge web development initiatives.
 
 ## Skills
 
