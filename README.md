@@ -1,9 +1,7 @@
 ![](https://github.com/Ariful-Islam80/New-project/blob/main/image/Black%20White%20Modern%20Simple%20New%20Arrival%20Sport%20Shoes%20Banner.gif?raw=true)
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ariful-Islam80&label=Profile%20views&color=0e75b6&style=flat)
+  
+ ![Profile Views](https://komarev.com/ghpvc/?username=Ariful-Islam80&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Contributions](https://img.shields.io/github/last-commit/Ariful-Islam80/Ariful-Islam80?label=Contributions&style=flat&color=success)
 
 #### Passionate about crafting captivating digital experiences, I specialize in using Tailwind CSS, React, Next.js, and Redux. From designing visually appealing interfaces to ensuring seamless user interactions, I bring creativity and efficiency to the frontend. With a solid foundation in backend technologies like Node.js, Express.js, and MongoDB, I seamlessly integrate frontend and backend functionalities. My collaborative workflows on GitHub and expertise in Firebase for real-time capabilities add a dynamic layer to my projects. Committed to continuous innovation, I contribute to cutting-edge web development initiatives.
 
@@ -45,8 +43,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ariful-Islam80&theme=dark)](https://git.io/streak-stats)
 
 ## Projects
-![GitHub Contributions](https://img.shields.io/github/last-commit/Ariful-Islam80/Ariful-Islam80?label=Contributions&style=flat&color=success)
-
 
 - [Project 1](link-to-project-1): Description of project 1.
 - [Project 2](link-to-project-2): Description of project 2.
