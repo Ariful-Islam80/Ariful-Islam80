@@ -32,7 +32,7 @@
 
 ## Find Me
 
- <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+ <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px; margin-right:20px;">
     <a href="https://github.com/Ariful-Islam80"><img src='https://icongr.am/octicons/mark-github.svg?size=128&color=currentColor' alt='github' height='60'></a>
     <a href="https://www.linkedin.com/in/mohammad-ariful-islam-a415402a6"><img src='https://i.ibb.co/SmMvtb7/linkedin.png' alt='linkedin' height='60'></a>
     <a href="https://wa.me/8801829957947"><img src='https://i.ibb.co/pXqRSj2/whatsapp.png' alt='whatsapp' height='60'></a>
