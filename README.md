@@ -33,20 +33,20 @@
 ## Find Me
 
  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px; margin-right:20px;">
-    <a href="https://github.com/Ariful-Islam80"><img src='https://icongr.am/octicons/mark-github.svg?size=128&color=currentColor' alt='github' height='60'></a>
+    <a href="https://github.com/Ariful-Islam80"><img src='https://icongr.am/octicons/mark-github.svg?size=128&color=white' alt='github' height='60'></a>
     <a href="https://www.linkedin.com/in/mohammad-ariful-islam-a415402a6"><img src='https://i.ibb.co/SmMvtb7/linkedin.png' alt='linkedin' height='60'></a>
     <a href="https://wa.me/8801829957947"><img src='https://i.ibb.co/pXqRSj2/whatsapp.png' alt='whatsapp' height='60'></a>
   </div>
 
-## GitHub Stats
+## Ariful Islam GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-Islam80&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-Islam80&show_icons=true)
-
-## GitHub Streak
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ariful-Islam80)
+## Ariful Islam GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ariful-Islam80&theme=dark)](https://git.io/streak-stats)
 
 ## Projects
+![GitHub Contributions](https://img.shields.io/github/last-commit/Ariful-Islam80/Ariful-Islam80?label=Contributions&style=flat&color=success)
+
 
 - [Project 1](link-to-project-1): Description of project 1.
 - [Project 2](link-to-project-2): Description of project 2.
